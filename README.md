@@ -1,2 +1,2 @@
 # NumberGuesserGame
-A number guesser game scripted in bash that interfaces with postgresSQL server
+A number guesser game scripted in bash that interfaces with postgresSQL a server
